@@ -23,11 +23,11 @@ o	Recall
 
 -	Git add . – To add new files to GIT
 
--	Git Commit -m “MY first commit” to GIT
+-	Git Commit -m “MY first commit” to GIT , m means message
 
 -	Git push origin branchname – to push file into GITHUB from Git
 
--	
+-	Git Status
 
 -	
 
