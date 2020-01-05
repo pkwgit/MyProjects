@@ -1,1 +1,33 @@
 New text file to learn git
+
+Learning Git
+-	Install GIT 
+-	Go to GIT Website and download MAC version 
+-	Created Folder structure
+
+GIT vs GITHUB
+
+-	Git is local  - Version control system
+o	Delete
+o	Merge
+o	Recall
+-	GitHub is cloud based Git repository hosting service
+
+-	Create a repository in GITHUB
+
+-	Copy the clone URL
+
+-	Clone using clone command in GIT Terminal 
+
+-	Git clone https://github.com/pkwgit/MyProjects.git
+
+-	Git add . – To add new files to GIT
+
+-	Git Commit -m “MY first commit” to GIT
+
+-	Git push origin branchname – to push file into GITHUB from Git
+
+-	
+
+-	
+
